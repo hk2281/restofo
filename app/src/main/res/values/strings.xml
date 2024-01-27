@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RESTOFO</string>
+    <string name="login_help_title">Войдите в профиль</string>
+    <string name="login_help_description">Чтобы начать восстанавливать фотографии</string>
+    <string name="logup_title">Регистрация</string>
+    <string name="btn_login">ВХОД</string>
+    <string name="btn_registratio">Регистрация</string>
+    <string name="email_hint">Логин(Email)</string>
+    <string name="pass_hint">Пароль</string>
+    <string name="btn_reg_login">Вход</string>
+    <string name="btn_reg_register">РЕГИСТРАЦИЯ</string>
+    <string name="work_scr_title">Восстановление фото</string>
+</resources>
